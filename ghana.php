@@ -37,7 +37,7 @@
         <div class="row"></div>
         <div class="row">
            <h1> GHANA VADYA / IDIOPHONES</h1>
-           <p>Avanaddha vadya are percussion instruments. Such instruments are made by Stretching the animal skin across a metal or earthen pot, wooden barrel or frame. The sound is produced by striking the animal skin that has been stretched across the body. The earliest reference to such instruments could be found in the Vedas.</p>
+           <p>In these instruments, sound is produced by striking instruments made up of metal or wooden pieces. Thus, these instruments are also called metallic instruments.</p>
         </div>
         
     
