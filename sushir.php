@@ -9,35 +9,35 @@
 <body>
     <div class="container">
         <div class="row">
-            <nav class="navbar navbar-expand-lg navbar-light bg-light">
-                <div class="container-fluid">
-                  <a class="navbar-brand" href="index.html">Home</a>
-                  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                  </button>
-                  <div class="collapse navbar-collapse" id="navbarNav">
-                    <ul class="navbar-nav">
-                      <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="tantu.html">Tantu Vadya</a>
-                      </li>
-                      <li class="nav-item">
-                        <a class="nav-link" href="sushir.html">Sushir Vadya</a>
-                      </li>
-                      <li class="nav-item">
-                        <a class="nav-link" href="avanadh.html">Avanadh Vadya</a>
-                      </li>
-                      <li class="nav-item">
-                        <a class="nav-link" href="ghana.html">Ghana Vadya</a>
-                      </li>
-                    </ul>
-                  </div>
-                </div>
-              </nav>
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <div class="container-fluid">
+              <a class="navbar-brand" href="index.php">Home</a>
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                  <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="tantu.php">Tantu Vadya</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="sushir.php">Sushir Vadya</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="avanadh.php">Avanadh Vadya</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="ghana.php">Ghana Vadya</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </nav>
         </div>
         <div class="row"></div>
         <div class="row">
-           <h1> AVANADH VADYA / CHARMAJ</h1>
-           <p>Avanaddha vadya are percussion instruments. Such instruments are made by Stretching the animal skin across a metal or earthen pot, wooden barrel or frame. The sound is produced by striking the animal skin that has been stretched across the body. The earliest reference to such instruments could be found in the Vedas.</p>
+           <h1> SUSHIR VADYA / AEROPHONES</h1>
+           <p>These are wind instruments. Sound is produced primarily by causing a body of air to vibrate, without the use of strings or membrane and without the vibration of the instrument itself adding considerably to the sound. The tonal quality of these instruments depends on the size and shape of the tube used.</p>
         </div>
         
     
@@ -46,10 +46,10 @@
             <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
                 <div class="carousel-inner">
                   <div class="carousel-item active">
-                    <img src="images1/image12.jpeg" class="d-block w-100" alt="..." height="350" width="200">
+                    <img src="images1/image9.jpeg" class="d-block w-100" alt="..." height="350" width="200">
                   </div>
                   <div class="carousel-item">
-                    <img src="images1/image13.jpeg" class="d-block w-100" alt="..." height="350" width="200">
+                    <img src="images1/image10.jpeg" class="d-block w-100" alt="..." height="350" width="200">
                   </div>
                   
                 </div>
@@ -74,7 +74,16 @@
                   </h2>
                   <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
-                      <strong> Khanjira, Chaughada, Dhol, Pakhawaj, Dhamaru, Chende, Dagar, Dampu, Bidi</strong>
+                      <strong> Shankh, Bansuri, Shehnai, Harmonium, 
+                        Mukhavina,
+                        Nadaswaram,
+                        Shehnai,
+                        Sundari,
+                        Tangmuri,     Mashak,
+                        Titti,
+                        Sruti upanga
+                    
+                    </strong>
                     </div>
                   </div>
                 </div>
@@ -96,5 +105,4 @@
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
 </body>
-
 </html>
